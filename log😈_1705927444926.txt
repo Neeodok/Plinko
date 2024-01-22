@@ -1,0 +1,215 @@
+🔥🔥🔥
+Created TXT files:
+🔥🔥🔥
+
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\AndroidManifest.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\java\pilko\bliopo\klop\GameApp.kt
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\java\pilko\bliopo\klop\GameObj.kt
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\java\pilko\bliopo\klop\game\Game.kt
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\java\pilko\bliopo\klop\game\screens\Game.kt
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\java\pilko\bliopo\klop\game\screens\Menu.kt
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\java\pilko\bliopo\klop\game\screens\Policy.kt
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\java\pilko\bliopo\klop\game\view\GameView.kt
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\internet_err.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\layout\activity_game.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\layout\fragment_game.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\layout\fragment_menu.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\layout\fragment_policy.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\navigation\game_graph.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\values\colors.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\values\ic_launcher_background.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\values\strings.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\values\themes.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\xml\backup_rules.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\xml\data_extraction_rules.xml
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\build.gradle
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\build.gradle
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\settings.gradle
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\proguard-rules.pro
+
+🔥🔥🔥
+Created NON-TXT files:
+🔥🔥🔥
+
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\arrow_left.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\arrow_left.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\arrow_right.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\arrow_right.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_blue.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_blue.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_green.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_green.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_lightblue.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_lightblue.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_lightpurple.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_lightpurple.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_orange.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_orange.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_purple.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_purple.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_red.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_red.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_white.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_white.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_yellow.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\ball_yellow.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\bg_1.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\bg_1.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\bg_menu.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\bg_menu.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\big_win.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\big_win.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\btn_2.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\btn_2.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\btn_text_2.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\btn_text_2.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\epic_drop.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\epic_drop.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\logo.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\logo.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\scr_2.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\scr_2.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\x05.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\x05.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\x1.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\x1.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\x5.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\drawable\x5.webp
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\font\new_font.otf
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\font\new_font.otf
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-hdpi\ic_launcher.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-hdpi\ic_launcher.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-hdpi\ic_launcher_round.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-mdpi\ic_launcher.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-mdpi\ic_launcher.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-mdpi\ic_launcher_round.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+😈
+D:\AndroidStudioProjects\TBAppss\January2024\WhiteApps\Plinko Funs\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png
+
+No errors noticed
